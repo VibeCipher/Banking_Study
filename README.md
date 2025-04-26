@@ -39,7 +39,7 @@ This project demonstrates a comprehensive End-to-End Data Analytics workflow in 
 - Used domain knowledge to calculate composite metrics like total loan and total deposit.
 
 ## Insights & Findings
--Strong positive correlation between bank deposits, checking accounts, and savings accounts.
+- Strong positive correlation between bank deposits, checking accounts, and savings accounts.
 - Majority of customers hold one credit card; males tend to have more credit cards than females.
 - Income bands and banking relationships influence loan distribution.
 - Visual dashboards enable stakeholders to quickly grasp key risk indicators and customer segmentation.
